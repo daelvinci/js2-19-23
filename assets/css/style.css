@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#task1{
+    text-align: center;
+    width: 20%;
+    margin: 3rem auto;
+}
+
+#h1{
+    margin-bottom: 20px;
+}
+
+#task2{
+    display: flex;
+    justify-content:space-evenly;
+    text-align: center;
+    width: 20%;
+    margin: 1rem auto;
+}
+
+#task2 button{
+    width: 2rem;
+}
+
+#task3{
+    display: flex;
+    justify-content:space-between;
+    text-align: center;
+    width: 22%;
+    margin: 1rem auto;
+}
